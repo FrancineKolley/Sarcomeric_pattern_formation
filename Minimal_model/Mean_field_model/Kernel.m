@@ -1,6 +1,6 @@
 % Non-local interaction from titin/Sallimus - double gaussian kernel
 % normalized area to 1
-
+% Copyright (C) <2023>  <Francine Kolley>
 % Francine Kolley 
 % Physics of Life, Benjamin M. Friedrich group
 % TU_dresden 
