@@ -1,4 +1,5 @@
 % ############## Mean-field model #############
+% Copyright (C) <2023>  <Francine Kolley>
 % Francine Kolley 
 % Physics of Life, Benjamin M. Friedrich group
 % TU_dresden 
