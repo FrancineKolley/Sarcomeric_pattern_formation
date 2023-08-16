@@ -1,4 +1,5 @@
 % Laplacian is calculated using the 5-point stencil
+% Copyright (C) <2023>  <Francine Kolley>
 % Francine Kolley 
 % Physics of Life, Benjamin M. Friedrich group
 % TU_dresden 
