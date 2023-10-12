@@ -1,7 +1,7 @@
 # Sarcomeric_pattern_formation
-This GitHub repository includes codes and examples for the image-analysis algorithm and simulation code used in the PhD thesis "Physical principles of pattern formation during myofibrillogenesis" by Francine Kolley, TU Dresden, and the corresponding manuscript (preprint) https://www.biorxiv.org/content/10.1101/2023.08.01.551279v1. 
+This GitHub repository includes codes and examples for the image-analysis algorithm and simulation code used in the PhD thesis "Physical principles of pattern formation during myofibrillogenesis" by Francine Kolley, TU Dresden, and the corresponding manuscript (preprint) https://www.biorxiv.org/content/10.1101/2023.08.01.551279v1. If you use the code, please cite the manuscript.
 
-This repository contains the followuing supporting code:
+This repository contains the following supporting code:
 
 (1) A tracking-free algorithm to compute correlation functions from multi-channel images, using a steerable filter to compute the local nematic director.
     The algorithm was modified in collaboration with Benoit Dehapiot based on an older version that can be found at https://github.com/BDehapiot/BDProject_FDomMuscle_2D .
