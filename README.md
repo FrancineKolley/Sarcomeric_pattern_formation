@@ -1,5 +1,5 @@
 # Sarcomeric_pattern_formation
-This GitHub repository includes codes and examples for the image-analysis algorithm and simulation code used in the PhD thesis "Physical principles of pattern formation during myofibrillogenesis" by Francine Kolley, TU Dresden, and the corresponding manuscript (preprint) https://www.biorxiv.org/content/10.1101/2023.08.01.551279v1. If you use the code, please cite the manuscript.
+This GitHub repository includes codes and examples for the image-analysis algorithm and simulation code used in the PhD thesis "Physical principles of pattern formation during myofibrillogenesis" by Francine Kolley, TU Dresden, and the corresponding manuscript (https://journals.aps.org/prxlife/abstract/10.1103/PRXLife.2.013002). If you use the code, please cite the manuscript.
 
 This repository contains the following supporting code:
 
